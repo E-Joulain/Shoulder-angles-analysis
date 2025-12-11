@@ -31,17 +31,21 @@ In 3D Slicer, open Edit → Application Settings → Modules → Additional Modu
 
 Add the folder containing the extension and restart Slicer.
 
-The module will appear under Custom Modules as beta_angle_analysis.
+The module will appear under Custom Modules as beta_angle_analysis. 
+<img width="1920" height="821" alt="image" src="https://github.com/user-attachments/assets/c0155be5-5e4b-42b1-837c-b51f1ce7fb81" />
+
 
 # Workflow
 
 ### Step 1 — Load the radiograph
 
-Use the DICOM module or drag-and-drop a compatible 2D image.
+Use the "add DICOM Data" module or drag-and-drop to add all the radiography you would like to analyse.
 
 ### Step 2 — Select the volume
 
 Use the module’s input selector to choose the active X-ray image.
+
+<img width="1349" height="606" alt="image" src="https://github.com/user-attachments/assets/6011af18-a4d3-4803-9f27-806b0dc33846" />
 
 ### Step 3 — Place fiducials
 
