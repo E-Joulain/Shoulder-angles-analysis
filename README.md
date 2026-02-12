@@ -29,7 +29,7 @@ In 3D Slicer, open Edit → Application Settings → Modules → Additional Modu
 
 <img width="917" height="667" alt="image" src="https://github.com/user-attachments/assets/97d970be-c633-44fb-af2b-8361d4df6609" />
 
-Add the folder containing the extension and restart Slicer.
+Add the folder "Beta_angle_ana" containing the extension and restart Slicer. The path should look like, for example: "C:\Users\Name\Downloads\Shoulder-angles-analysis-main\Beta_angle_ana". 
 
 The module will appear under Custom Modules as beta_angle_analysis. 
 <img width="1920" height="821" alt="image" src="https://github.com/user-attachments/assets/c0155be5-5e4b-42b1-837c-b51f1ce7fb81" />
